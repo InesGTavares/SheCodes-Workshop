@@ -1,0 +1,64 @@
+body {
+  margin: 15%;
+  background-color: #c9fcfb;
+}
+.container {
+  background-color: #57c1d1;
+  border: 10px solid #57c1d1;
+  margin: 25px auto;
+  padding-left: 0;
+  border-radius: 8px;
+}
+.city {
+  padding: 0px 5px 30px 0px;
+}
+.inputBox {
+  width: 60%;
+}
+.main {
+  text-align: center;
+}
+.rightNow {
+  font-size: 20px;
+}
+.col-4 {
+  padding: 20px 0px 20px 0px;
+  text-align: center;
+  background-color: azure;
+  font-size: 17px;
+  border: 2px solid #57c1d1;
+  border-radius: 5px;
+}
+.majorNumber {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+.currentCity {
+  padding-top: 15px;
+  text-align: left;
+  font-size: 35px;
+  margin: 0;
+  text-transform: uppercase;
+}
+.weatherEmoji {
+  font-size: 80px;
+  vertical-align: middle;
+  text-align: center;
+}
+.weatherToday {
+  font-size: 15px;
+  vertical-align: middle;
+  text-align: left;
+}
+.currentDate {
+  text-align: center;
+  font-size: 18px;
+}
+
+.currentLocation {
+  background-color: azure;
+  border: 2px solid azure;
+  border-radius: 5px;
+  font-size: 15px;
+}
