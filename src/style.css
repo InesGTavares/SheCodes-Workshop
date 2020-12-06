@@ -62,3 +62,10 @@ body {
   border-radius: 5px;
   font-size: 15px;
 }
+
+.gitHub {
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 14px;
+}
